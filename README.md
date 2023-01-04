@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justisiasha
-- 👀 I’m interested in Business Analytics, Statistics
-- 🌱 I’m currently learning Statistics Specialization in Data Science
+- 👀 I’m interested in Business Analytics, Data Visualization, Statistics
+- 🌱 I’m currently learning (Never stop learning!) *wink*
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me lumonggab28@gmail.com
 
